@@ -1,0 +1,6 @@
+interface:
+  display_name: "两性资料参考"
+  short_description: "检索已整理的本地两性资料，结合具体情境回答恋爱与沟通问题并注明出处"
+  default_prompt: "使用 $relationship-library，参考我整理的两性资料，分析下面的问题并注明资料来源。"
+policy:
+  allow_implicit_invocation: true

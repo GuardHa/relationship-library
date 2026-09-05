@@ -1,0 +1,8 @@
+/data/
+*.sqlite3
+*.sqlite3-*
+*.building.md
+__pycache__/
+*.py[cod]
+.env
+.env.*

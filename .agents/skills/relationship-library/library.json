@@ -1,0 +1,6 @@
+{
+  "root": "../../../data",
+  "manifest": "完整清单.json",
+  "combined": "两性资料总集.md",
+  "database": "_检索/library.sqlite3"
+}
